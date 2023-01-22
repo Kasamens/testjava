@@ -9,7 +9,6 @@ bin/
 *.iml
 
 # Maven
-target/
 
 # Local scripts
 .scripts/

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.42">
+<file name="/Users/Kojo/Desktop/Test/Java/deploy/testjava/src/main/java/com/azure/spring/samples/dao/TodoItemRepository.java">
+</file>
+<file name="/Users/Kojo/Desktop/Test/Java/deploy/testjava/src/main/java/com/azure/spring/samples/TodoApplication.java">
+</file>
+<file name="/Users/Kojo/Desktop/Test/Java/deploy/testjava/src/main/java/com/azure/spring/samples/controller/TodoListController.java">
+</file>
+<file name="/Users/Kojo/Desktop/Test/Java/deploy/testjava/src/main/java/com/azure/spring/samples/model/TodoItem.java">
+</file>
+<file name="/Users/Kojo/Desktop/Test/Java/deploy/testjava/src/test/java/com/azure/spring/samples/TodoApplicationTest.java">
+<error line="1" severity="error" message="Line does not match expected header line of &apos;// Copyright (c) Microsoft Corporation. All rights reserved.&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="/Users/Kojo/Desktop/Test/Java/deploy/testjava/src/test/java/com/azure/spring/samples/model/TodoItemTest.java">
+</file>
+<file name="/Users/Kojo/Desktop/Test/Java/deploy/testjava/src/main/resources/application.properties">
+</file>
+<file name="/Users/Kojo/Desktop/Test/Java/deploy/testjava/src/test/resources/test.properties">
+<error line="1" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+</file>
+</checkstyle>

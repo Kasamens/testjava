@@ -1,0 +1,9 @@
+#Sun Jan 22 20:28:59 GMT 2023
+/Users/Kojo/Desktop/Test/Java/deploy/testjava/src/main/java/com/azure/spring/samples/TodoApplication.java=1674336627897
+/Users/Kojo/Desktop/Test/Java/deploy/testjava/src/main/java/com/azure/spring/samples/controller/TodoListController.java=1674336627897
+/Users/Kojo/Desktop/Test/Java/deploy/testjava/src/main/java/com/azure/spring/samples/dao/TodoItemRepository.java=1674336627897
+/Users/Kojo/Desktop/Test/Java/deploy/testjava/src/main/java/com/azure/spring/samples/model/TodoItem.java=1674336627897
+/Users/Kojo/Desktop/Test/Java/deploy/testjava/src/main/resources/application.properties=1674336627898
+/Users/Kojo/Desktop/Test/Java/deploy/testjava/src/test/java/com/azure/spring/samples/model/TodoItemTest.java=1674336627900
+configuration*?=FF485575C155C4BED0E3150834D8A69C7A0C7DA6
+module-resource*?\:/checkstyle-suppressions.xml=60C40BA149D285C6C8D149723C7E19BC4F22D409

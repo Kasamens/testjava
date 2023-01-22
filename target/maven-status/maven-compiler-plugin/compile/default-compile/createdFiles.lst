@@ -1,0 +1,4 @@
+com/azure/spring/samples/TodoApplication.class
+com/azure/spring/samples/dao/TodoItemRepository.class
+com/azure/spring/samples/controller/TodoListController.class
+com/azure/spring/samples/model/TodoItem.class
