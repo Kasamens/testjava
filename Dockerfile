@@ -1,4 +1,3 @@
 FROM openjdk:8-jdk-alpine
-ARG JAR_FILE = target/spring-todo-app-2.0-SNAPSHOT.jar
-COPY ${JAR_FILE} app.jar
+COPY target/spring-todo-app-2.0-SNAPSHOT.jar app.jar
 ENTRYPOINT ["java","-jar","/app.jar"]
